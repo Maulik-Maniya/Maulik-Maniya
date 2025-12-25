@@ -1,3 +1,5 @@
+<!-- GitHub stats removed -->
+
 <div align="center">
 
 # Hi, I’m Maulik Maniya 👋  
