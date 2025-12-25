@@ -98,12 +98,11 @@ I care deeply about:
 - Led multiple backend and frontend modernization projects
 
 ---
+## 💭 My Philosophy
 
-## 🧠 How I Think About Development
-
-> I believe good software is boring in the best way — predictable, maintainable, and easy to reason about.  
-> I prefer solid architecture over shortcuts, and I value clear communication as much as clean code.
-
+> *"Code is read much more often than it is written."*
+>
+> I prioritize clarity over cleverness. Whether I'm building a greenfield project or refactoring legacy code, my goal is to leave the codebase cleaner and more secure than I found it.
 ---
 
 ## 🤝 Let’s Connect
